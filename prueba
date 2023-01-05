@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Mi Artista</title>
+    <style>
+      /* Estilos para la página */
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Mi Artista</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="/">Inicio</a></li>
+        <li><a href="/biografia">Biografía</a></li>
+        <li><a href="/conciertos">Conciertos</a></li>
+        <li><a href="/galeria">Galería</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2>Bienvenido a mi
